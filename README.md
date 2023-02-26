@@ -98,4 +98,4 @@ function transferFrom(
 }
 //informations // "website": "https://lisprocoin.net", // "social": { // "github": "https://github.com/15-Lippo?tab=repositories", // "twitter": "https://mobile.twitter.com/lisprocoin", // 
 
-// "token": { // "chainId": 137, // "address": "0xD0355200111C2B21AAbC1a31552eCCDc5d4E905d", // "symbol": "LSP20", // "name": "Lisprocoin", // "decimals": 18 // "logo token" :
+// "token": { // "chainId": 137, // "address": "0xD0355200111C2B21AAbC1a31552eCCDc5d4E905d", // "symbol": "LSP20", // "name": "Lisprocoin", // "decimals": 18 // "logo token" :https://github.com/15-Lippo/Logo-Lisprocoin-/blob/master/output-onlinepngtools.png
